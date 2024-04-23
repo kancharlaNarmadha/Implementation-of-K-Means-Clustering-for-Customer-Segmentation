@@ -1,4 +1,4 @@
-![image](https://github.com/kancharlaNarmadha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119559316/a92610c1-259d-4beb-ad88-9e5d333f4331)# Implementation-of-K-Means-Clustering-for-Customer-Segmentation
+
 
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
