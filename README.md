@@ -1,4 +1,4 @@
-# Implementation-of-K-Means-Clustering-for-Customer-Segmentation
+![image](https://github.com/kancharlaNarmadha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119559316/a92610c1-259d-4beb-ad88-9e5d333f4331)# Implementation-of-K-Means-Clustering-for-Customer-Segmentation
 
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
@@ -76,19 +76,27 @@ plt.title("Customer Segments")
 
 ## Output:
 ### data.head():
-![](Exp8_1.png)
+![image](https://github.com/kancharlaNarmadha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119559316/8b09cde0-5096-42d7-bf02-4d4267de50a4)
+
 ### data.info():
-![](Exp8_2.png)
+![image](https://github.com/kancharlaNarmadha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119559316/db45c0e8-d21d-4725-8fa4-6f8f074a3f96)
+
 ### NULL VALUES:
-![](Exp8_3.png)
+![image](https://github.com/kancharlaNarmadha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119559316/3d43eb2b-7c42-4862-a500-07d49459ecc7)
+
 ### ELBOW GRAPH:
-![](Exp8_4.png)
+![image](https://github.com/kancharlaNarmadha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119559316/57efb142-eeb9-4e88-aaac-12436ba77e4a)
+
 ### CLUSTER FORMATION:
-![](Exp8_5.png)
+![image](https://github.com/kancharlaNarmadha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119559316/b42f15b4-b90e-4f43-bdc6-fab795c764ef)
+
 ### PREDICICTED VALUE:
-![](Exp8_6.png)
+![image](https://github.com/kancharlaNarmadha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119559316/13ba5174-ea23-4ff7-b041-321b74206526)
+
 ### FINAL GRAPH(D/O):
-![](Exp8_7.png)
+![image](https://github.com/kancharlaNarmadha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119559316/61d4df90-574e-49e4-b88b-69bdcd721672)
+
+
 
 
 ## Result:
